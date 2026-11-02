@@ -77,7 +77,7 @@ This project is developed for educational purposes only. It is not clinically va
 ## Application Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](project_screenshot/home.png)
 
 ### Prediction Result
 ![Prediction Result](project_screenshot/prediction-0.png)
