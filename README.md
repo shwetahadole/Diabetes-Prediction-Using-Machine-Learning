@@ -73,3 +73,13 @@ streamlit run app.py
 
 # Disclaimer
 This project is developed for educational purposes only. It is not clinically validated and should not be used as a medical diagnostic tool.
+
+## Application Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Prediction Result
+![Prediction Result](project_screenshot/prediction-0.png)
+![Prediction Result](project_screenshot/prediction-1.png)
+
